@@ -6,5 +6,5 @@
   [gitee](https://gitee.com/ACodeHX)
   
 # free  
-  [下载](ARCHPR/HA_Advanced Archive Password Recovery 4.54.exe)
-  
+
+[HA_Advanced Archive Password Recovery 4.54.zip](https://github.com/ACodeHX/free/files/10964737/HA_Advanced.Archive.Password.Recovery.4.54.zip)
