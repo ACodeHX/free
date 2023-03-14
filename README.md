@@ -9,6 +9,4 @@
 
 # ARCHPR
 
-Brute force zip password:
-
-[ARCHPR.zip](https://github.com/ACodeHX/free/files/10964737/HA_Advanced.Archive.Password.Recovery.4.54.zip)
+[下载应用程序](https://github.com/ACodeHX/free/releases/tag/free)
