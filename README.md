@@ -6,7 +6,3 @@
   [gitee](https://gitee.com/ACodeHX)
   
 ## free  
-
-ARCHPR
-
-[下载应用程序](https://github.com/ACodeHX/free/releases/tag/free)
